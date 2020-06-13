@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support
+    url: https://wkhtmltopdf.org/support.html
+    about: Make sure you've read the support page before reporting an issue.
+  - name: Security
+    url: mailto:security@wkhtmltopdf.org
+    about: Please report security vulnerabilities here.
